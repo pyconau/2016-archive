@@ -1,5 +1,5 @@
 body {
-  background: url(mcec_mini.jpg) no-repeat center center fixed;
+  background: url(mcec.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -17,9 +17,7 @@ body {
 }
 
 .jumbotron {
-    background-color: rgba(255,255,255,0.9);
-    margin-top: 60px;
-    margin-bottom: 60px;
+    background-color: rgba(255,255,255,0.8);
 }
 
 @font-face {
@@ -29,17 +27,5 @@ body {
 
 .jumbotron h1 {
     font-size: 3em;
-    font-family: 'Flux Regular';
-}
-
-#announcements {
-    background-color: rgba(255,255,255,0.8);
-    border-radius: 6px;
-    padding: 5px;
-    margin-top: 60px;
-    margin-bottom: 60px;
-}
-#announcements h2 {
-    font-size: 2em;
     font-family: 'Flux Regular';
 }
